@@ -1,4 +1,4 @@
-# blogr for Claude
+# Blogr for Claude
 
 blogr plans, writes and publishes SEO content for your website. This plugin connects Claude to your blogr account so you can check on that work from a conversation.
 
@@ -22,6 +22,6 @@ The connector sees the same websites you do in blogr, with your team role. It ne
 
 Claude reads your websites, articles, topical map, Search Console performance and SEO opportunities from your blogr account through blogr.ai/mcp. It can also change your content plan when you ask: approve, decline, add and reschedule titles, and edit article drafts. It does not publish, delete, or start writing an article early; approved titles are written on their scheduled day within your plan's monthly allowance. Your team role in blogr decides what Claude may change. blogr logs which tools were called (not your conversation) for 90 days.
 
-Full documentation: https://blogr.ai/integrations/claude
+Full documentation: https://blogr.ai/integrations/mcp/claude
 Privacy policy: https://blogr.ai/privacy
 Support: support@blogr.ai

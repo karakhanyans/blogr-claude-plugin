@@ -1,13 +1,21 @@
 {
   "name": "blogr",
-  "displayName": "blogr",
-  "version": "1.1.1",
-  "description": "Run your blogr SEO content engine from Claude: search performance, what's scheduled and published, your topical map and SEO opportunities, approving and planning titles, refreshing articles, and turning published articles into posts for other channels.",
+  "displayName": "Blogr",
+  "version": "1.1.2",
+  "description": "Check your SEO content, approve titles, plan your calendar and edit articles in blogr.ai, right from Claude.",
   "author": {
-    "name": "blogr",
+    "name": "Sergey Karakhanyan",
     "url": "https://blogr.ai"
   },
   "homepage": "https://blogr.ai",
   "privacyPolicyUrl": "https://blogr.ai/privacy",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "content marketing",
+    "blogging",
+    "topical map",
+    "search console",
+    "content calendar"
+  ]
 }
